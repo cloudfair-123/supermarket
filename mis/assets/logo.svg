@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="The Leaf Supermarket logo">
+  <title>The Leaf Supermarket</title>
+  <!-- cart handle + frame -->
+  <path d="M10 26 H24 L36 78 H92" fill="none" stroke="#0f5132" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- basket -->
+  <path d="M27 42 H100 L90 72 H35 Z" fill="#d9f2e3" stroke="#0f5132" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M50 44 L52 70 M66 44 L66 70 M82 44 L79 70" stroke="#0f5132" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+  <!-- leaf growing out of the basket, joined to the cart -->
+  <path d="M58 60 C38 52 38 24 74 10 C100 22 96 54 58 60 Z" fill="#198754" stroke="#0f5132" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M58 60 C66 46 72 32 78 20" fill="none" stroke="#e9f7ef" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M66 46 L54 42 M70 38 L82 38 M73 30 L63 26 M70 50 L84 48" stroke="#e9f7ef" stroke-width="2.5" stroke-linecap="round" opacity=".85"/>
+  <!-- wheels -->
+  <circle cx="44" cy="96" r="8.5" fill="#f59e0b" stroke="#0f5132" stroke-width="4"/>
+  <circle cx="84" cy="96" r="8.5" fill="#f59e0b" stroke="#0f5132" stroke-width="4"/>
+</svg>
